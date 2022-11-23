@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SQLite" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/negro</item>
+        <item name="colorPrimaryVariant">@color/morado_oscuro</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/morado_claro</item>
+        <item name="colorSecondaryVariant">@color/blanco</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
